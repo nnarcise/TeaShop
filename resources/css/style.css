@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  font-family: "Helvetica", sans-serif;
+  color: seashell;
+  background-color: black;
+  font-size: 22px;
+  text-align: center;
+
+}
+
+header {
+
+}
+
+header img {
+  height: 50px;
+  padding-left: 10px;
+}
+
+nav {
+  text-align: right;
+  flex-grow: 1
+}
